@@ -7,7 +7,7 @@ namespace MusicTracks.Models
 {
     public class InsClass
     {
-        public int UserID { get; set; }
+        public string UserID { get; set; }
 		public int subscription { get; set; }
 
 		public int userType { get; set; }
